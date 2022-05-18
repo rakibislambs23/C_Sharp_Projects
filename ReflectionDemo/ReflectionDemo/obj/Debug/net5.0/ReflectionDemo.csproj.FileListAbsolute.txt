@@ -1,0 +1,16 @@
+C:\C# Projects\ReflectionDemo\ReflectionDemo\bin\Debug\net5.0\ReflectionDemo.exe
+C:\C# Projects\ReflectionDemo\ReflectionDemo\bin\Debug\net5.0\ReflectionDemo.deps.json
+C:\C# Projects\ReflectionDemo\ReflectionDemo\bin\Debug\net5.0\ReflectionDemo.runtimeconfig.json
+C:\C# Projects\ReflectionDemo\ReflectionDemo\bin\Debug\net5.0\ReflectionDemo.runtimeconfig.dev.json
+C:\C# Projects\ReflectionDemo\ReflectionDemo\bin\Debug\net5.0\ReflectionDemo.dll
+C:\C# Projects\ReflectionDemo\ReflectionDemo\bin\Debug\net5.0\ReflectionDemo.pdb
+C:\C# Projects\ReflectionDemo\ReflectionDemo\obj\Debug\net5.0\ReflectionDemo.csproj.AssemblyReference.cache
+C:\C# Projects\ReflectionDemo\ReflectionDemo\obj\Debug\net5.0\ReflectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\ReflectionDemo\ReflectionDemo\obj\Debug\net5.0\ReflectionDemo.AssemblyInfoInputs.cache
+C:\C# Projects\ReflectionDemo\ReflectionDemo\obj\Debug\net5.0\ReflectionDemo.AssemblyInfo.cs
+C:\C# Projects\ReflectionDemo\ReflectionDemo\obj\Debug\net5.0\ReflectionDemo.csproj.CoreCompileInputs.cache
+C:\C# Projects\ReflectionDemo\ReflectionDemo\obj\Debug\net5.0\ReflectionDemo.dll
+C:\C# Projects\ReflectionDemo\ReflectionDemo\obj\Debug\net5.0\refint\ReflectionDemo.dll
+C:\C# Projects\ReflectionDemo\ReflectionDemo\obj\Debug\net5.0\ReflectionDemo.pdb
+C:\C# Projects\ReflectionDemo\ReflectionDemo\obj\Debug\net5.0\ReflectionDemo.genruntimeconfig.cache
+C:\C# Projects\ReflectionDemo\ReflectionDemo\obj\Debug\net5.0\ref\ReflectionDemo.dll
